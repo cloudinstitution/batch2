@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 hi  
-=======
-Hey how are u 
->>>>>>> 48467c01a5c39f0f56296d15305cf31191b35c7c
 hello
 good morning cloud institution
 hfdyyrd
